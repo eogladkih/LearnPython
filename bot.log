@@ -5,3 +5,4 @@ telegram.ext.updater - ERROR - Error while getting Updates: Timed out
 telegram.ext.updater - ERROR - Error while getting Updates: Timed out
 telegram.ext.updater - ERROR - Error while getting Updates: Timed out
 telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError ('Connection aborted.', BadStatusLine("''",))
